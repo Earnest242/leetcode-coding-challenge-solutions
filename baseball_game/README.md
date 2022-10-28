@@ -1,1 +1,3 @@
-#Baseball challenge
+# Baseball challenge
+
+## Instructions

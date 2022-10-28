@@ -1,4 +1,4 @@
-//function to perform the operation
+//function to perform the points calculation operation
 var calPoints = function(ops){
     var result =null;
     let stack1 = []
@@ -22,7 +22,6 @@ var calPoints = function(ops){
     for (let f in stack1){
         result =result + stack1[f]
     }
-    
     
     return result;
 }

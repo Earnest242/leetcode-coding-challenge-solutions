@@ -20,6 +20,7 @@ def calPoints(ops):
         result = result + f
     
     return result
-
+    
+#insert different test cases into this array
 ops3 = ["5","2","C","D","+"]
 print(calPoints(ops3))
